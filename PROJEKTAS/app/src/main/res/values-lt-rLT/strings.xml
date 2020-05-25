@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guess The Number</string>
+    <string name="btn_start">Pradėti</string>
+    <string name="btn_results">Rezultatai</string>
+    <string name="btn_settings">Nustatymai</string>
+    <string name="btn_about">Apie</string>
+    <string name="results_name">Results Activity</string>
+    <string name="image_name">Image</string>
+    <string name="about_info">Programa buvo sukurba Roko Janonio IFAi-7</string>
+    <string name="player_name">Žaidėjo vardas</string>
+    <string name="player_age">Žaidėjo amžius</string>
+    <string name="player_a">Pasirinkite</string>
+    <string name="sound_name">Garsas</string>
+    <string-array name="difficulty_values">
+        <item>Lengvas</item>
+        <item>Vidutinis</item>
+        <item>Sunkus</item>
+        <item>Neįmanomas</item>
+    </string-array>
+    <string name="play_btn">Žaisti</string>
+    <string name="number_range_format">Spėkite skaičių nuo %d iki %d</string>
+    <string name="turns_format">Ėjimas %d iš %d</string>
+    <string name="result_format">Spėtas skaičius buvo %d ir jis buvo per %s.</string>
+    <string name="result_high">didelis</string>
+    <string name="result_low">mažas</string>
+    <string name="answer_winlose">Teisingas skaičius buvo %d</string>
+    <string name="answer_numberoftries_format">Atspėjote skaičių %d bandymu</string>
+    <string name="outofturns">Jūs neatspėjote teisingai per %d bandymus</string>
+    <string name="aboutHow">Kaip žaisti?</string>
+    <string name="howtoplay">Atspėkite slaptą skaičių pateiktame diapazone per nurodytą bandymų kiekį. Jei Jūsų skaičius bus per didelis ar per mažas, Jūs apie tai gausite užuominą.</string>
+    <string name="settings_save">Jūsų informacija buvo išsaugota!</string>
+</resources>
